@@ -35,12 +35,4 @@ _Note_: ES6 [modules][modules] are always in strict mode, so that's why you don'
 * [Compatibility Table](http://kangax.github.io/compat-table/es6/)
 * [IO.js notes on ES6](https://iojs.org/en/es6.html)
 
-# TODO
-
-* Classes
-* Promises
-* Iterators
-* Parameters (default, rest)
-* Collections
-
 [modules]: http://www.2ality.com/2014/09/es6-modules-final.html
