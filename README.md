@@ -15,6 +15,19 @@ To run the examples, just run `babel-node` on the example you'd like to try:
     babel-node declarations.js
     etc
     
+### Suggested Example Order
+If you're completely new to ES6, I'd suggest looking at the examples in the following order:
+
+1. [Parameters](http://www.es6fiddle.net/ib8twp5j/)
+1. [Template Strings](http://www.es6fiddle.net/ib8ty68i/)
+1. Declarations
+1. [Computed Properties](http://www.es6fiddle.net/ib8u2bnn/)
+1. Modules / Exports
+1. [Classes](http://www.es6fiddle.net/ib8u3mlk/)
+1. [Arrow Functions](http://www.es6fiddle.net/ib8u4wig/)
+1. [Promises](http://www.es6fiddle.net/ib8u5zco/)
+1. [Generators](http://www.es6fiddle.net/ib8u78gg/)
+    
 ### Key Concepts
 
 * Backward compatibility
